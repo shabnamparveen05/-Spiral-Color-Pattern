@@ -37,5 +37,3 @@ The code uses the `turtle` graphics library and `colorsys` for color conversions
    ```bash
    python spiral_color_patterns.py
 
-Contributing
-Feel free to open issues or submit pull requests if you have suggestions for improvements or additional features.
